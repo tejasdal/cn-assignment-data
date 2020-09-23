@@ -1,0 +1,531 @@
+
+Tracing route to www.google.com [172.217.13.196]
+over a maximum of 30 hops:
+
+  1     5 ms     4 ms     3 ms  hitronhub.home [192.168.0.1] 
+  2    21 ms    14 ms   216 ms  10.82.192.1 
+  3    27 ms    18 ms    23 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213] 
+  4    11 ms    12 ms    16 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77] 
+  5    11 ms    15 ms    14 ms  ns-hlfx-br001.ns.eastlink.ca [24.215.101.221] 
+  6    18 ms    13 ms    13 ms  ns-hlfx-br002.ns.eastlink.ca [24.215.102.10] 
+  7    32 ms    32 ms    27 ms  74.125.52.182 
+  8    32 ms    41 ms   177 ms  108.170.251.33 
+  9    32 ms    40 ms    27 ms  108.170.231.67 
+ 10    28 ms    36 ms    32 ms  yul03s05-in-f4.1e100.net [172.217.13.196] 
+
+Trace complete.
+
+Tracing route to new-fp-shed.wg1.b.yahoo.com [74.6.143.25]
+over a maximum of 30 hops:
+
+  1     4 ms     3 ms     4 ms  hitronhub.home [192.168.0.1] 
+  2    17 ms    25 ms   182 ms  10.82.192.1 
+  3    15 ms    14 ms    22 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213] 
+  4    20 ms    17 ms    16 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77] 
+  5    22 ms    22 ms    19 ms  ns-hlfx-br001.ns.eastlink.ca [24.215.101.221] 
+  6    24 ms    15 ms    16 ms  ns-hlfx-br002.ns.eastlink.ca [24.215.102.10] 
+  7    38 ms    43 ms    40 ms  yahoo-xe2.torontointernetxchange.net [206.108.35.40] 
+  8    37 ms    40 ms    37 ms  et-1-0-1.pat1.bfz.yahoo.com [72.30.223.5] 
+  9    43 ms    39 ms   182 ms  et-18-0-1.msr1.bf2.yahoo.com [72.30.223.29] 
+ 10    41 ms    36 ms    38 ms  et-1-1-0.clr2-a-gdc.bf2.yahoo.com [74.6.122.57] 
+ 11    39 ms    40 ms    42 ms  lo0.fab6-1-gdc.bf2.yahoo.com [74.6.123.239] 
+ 12    40 ms    38 ms    36 ms  usw2-1-lbb.bf2.yahoo.com [74.6.98.139] 
+ 13    41 ms    42 ms    40 ms  media-router-fp73.prod.media.vip.bf1.yahoo.com [74.6.143.25] 
+
+Trace complete.
+
+Tracing route to bbc.map.fastly.net [151.101.124.81]
+over a maximum of 30 hops:
+
+  1     5 ms     4 ms     6 ms  hitronhub.home [192.168.0.1] 
+  2    18 ms    16 ms    12 ms  10.82.192.1 
+  3    18 ms    16 ms    12 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213] 
+  4    11 ms    11 ms    21 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77] 
+  5    13 ms    22 ms   106 ms  ns-hlfx-br001.ns.eastlink.ca [24.215.101.221] 
+  6    20 ms    19 ms    18 ms  ns-hlfx-br002.ns.eastlink.ca [24.215.102.10] 
+  7    34 ms    40 ms    36 ms  fastly-b.ip4.torontointernetxchange.net [206.108.35.31] 
+  8    36 ms    38 ms    32 ms  151.101.124.81 
+
+Trace complete.
+
+Tracing route to e12582.dsce12.akamaiedge.net [23.44.217.159]
+over a maximum of 30 hops:
+
+  1    18 ms     3 ms     4 ms  hitronhub.home [192.168.0.1] 
+  2    14 ms    25 ms    22 ms  10.82.192.1 
+  3    14 ms    13 ms    17 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213] 
+  4    11 ms    12 ms    14 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77] 
+  5    17 ms    14 ms    20 ms  ns-hlfx-br001.ns.eastlink.ca [24.215.101.221] 
+  6    12 ms    14 ms    13 ms  ns-hlfx-br002.ns.eastlink.ca [24.215.102.10] 
+  7    15 ms    15 ms    20 ms  ae3-8.cr1-hal1.ip4.gtt.net [69.174.19.173] 
+  8    27 ms    33 ms    26 ms  ae24.cr4-nyc6.ip4.gtt.net [213.200.121.6] 
+  9    30 ms     *       38 ms  ip4.gtt.net [98.124.184.66] 
+ 10    47 ms    43 ms    39 ms  ae2.r01.lga01.icn.netarch.akamai.com [23.203.156.36] 
+ 11    45 ms    42 ms    41 ms  ae3.r01.ewr01.icn.netarch.akamai.com [23.32.63.61] 
+ 12    44 ms    84 ms    56 ms  ae1.r02.ewr01.ien.netarch.akamai.com [23.203.154.37] 
+ 13    34 ms    35 ms    72 ms  ae3.halsey-ewr.netarch.akamai.com [23.203.154.193] 
+ 14    36 ms    31 ms    28 ms  a23-44-217-159.deploy.static.akamaitechnologies.com [23.44.217.159] 
+
+Trace complete.
+
+Tracing route to djz1tax43w9ei.cloudfront.net [13.225.192.67]
+over a maximum of 30 hops:
+
+  1   339 ms     7 ms     6 ms  hitronhub.home [192.168.0.1]
+  2    18 ms    14 ms    10 ms  10.82.192.1
+  3    13 ms    11 ms    12 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213]
+  4    12 ms    12 ms    12 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77]
+  5    36 ms    48 ms    24 ms  ns-hlfx-br001.ns.eastlink.ca [24.215.101.221]
+  6    46 ms    37 ms    24 ms  ns-hlfx-br002.ns.eastlink.ca [24.215.102.10]
+  7    32 ms    42 ms    28 ms  ns-hlfx-hibernia.ns.eastlink.ca [24.222.226.90]
+  8    61 ms    68 ms   108 ms  52.94.81.174
+  9    29 ms    28 ms    28 ms  52.94.81.167
+ 10    28 ms    39 ms    33 ms  52.94.83.32
+ 11    30 ms    32 ms    30 ms  52.94.82.168
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18    29 ms    31 ms    43 ms  server-13-225-192-67.yul62.r.cloudfront.net [13.225.192.67]
+
+
+Trace complete.
+
+Tracing route to tass.com [82.202.190.72]
+over a maximum of 30 hops:
+
+  1     5 ms     3 ms     5 ms  hitronhub.home [192.168.0.1] 
+  2    14 ms    18 ms    12 ms  10.82.192.1 
+  3    21 ms    21 ms   202 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213] 
+  4    15 ms    12 ms    16 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77] 
+  5    28 ms    26 ms    19 ms  ns-hlfx-br001.ns.eastlink.ca [24.215.101.221] 
+  6    43 ms    36 ms    49 ms  nyk-b4-link.telia.net [62.115.190.16] 
+  7     *        *        *     Request timed out.
+  8   133 ms   127 ms   122 ms  ldn-bb3-link.telia.net [62.115.113.21] 
+  9   122 ms   129 ms   123 ms  prs-bb3-link.telia.net [62.115.123.69] 
+ 10   125 ms   124 ms   126 ms  ffm-bb1-link.telia.net [62.115.123.12] 
+ 11   128 ms   130 ms   127 ms  ffm-b1-link.telia.net [62.115.120.199] 
+ 12   127 ms   123 ms   130 ms  transtelecom-ic-313016-ffm-b1.c.telia.net [213.248.69.66] 
+ 13   230 ms   278 ms     *     mskn17ra-lo1.transtelecom.net [217.150.55.21] 
+ 14   168 ms   168 ms   170 ms  Kaspersky-gw.transtelecom.net [188.43.25.125] 
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+Tracing route to www.esa.int.whecloud.com [157.185.179.198]
+over a maximum of 30 hops:
+
+  1   326 ms     4 ms     6 ms  hitronhub.home [192.168.0.1] 
+  2    24 ms    16 ms    35 ms  10.82.192.1 
+  3    20 ms    18 ms    15 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213] 
+  4    25 ms    17 ms    16 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77] 
+  5    16 ms    14 ms    14 ms  ns-hlfx-br001.ns.eastlink.ca [24.215.101.221] 
+  6    39 ms    47 ms    38 ms  ix-et-9-1-0-3003.tcore1.n75-newyork.as6453.net [66.110.96.154] 
+  7    54 ms    57 ms    54 ms  if-ae-12-4.tcore2.nto-newyork.as6453.net [66.110.96.58] 
+  8    54 ms    55 ms    57 ms  if-ae-26-2.tcore1.ct8-chicago.as6453.net [216.6.81.29] 
+  9    60 ms    56 ms   108 ms  63.243.129.81 
+ 10     *        *        *     Request timed out.
+ 11    49 ms    48 ms    48 ms  157.185.179.198 
+
+Trace complete.
+
+Tracing route to d30etcnkn29cv0.cloudfront.net [13.225.190.93]
+over a maximum of 30 hops:
+
+  1   333 ms     4 ms     3 ms  hitronhub.home [192.168.0.1]
+  2    14 ms    18 ms    13 ms  10.82.192.1
+  3    29 ms    17 ms    21 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213]
+  4    17 ms    15 ms    18 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77]
+  5    12 ms    17 ms    15 ms  ns-hlfx-br001.ns.eastlink.ca [24.215.101.221]
+  6    12 ms    15 ms    17 ms  ns-hlfx-br002.ns.eastlink.ca [24.215.102.10]
+  7    27 ms    27 ms    26 ms  ns-hlfx-hibernia.ns.eastlink.ca [24.222.226.90]
+  8    35 ms    32 ms    28 ms  52.94.81.130
+  9    30 ms    28 ms    37 ms  52.94.81.125
+ 10    37 ms    29 ms    28 ms  52.94.83.34
+ 11    32 ms    29 ms    32 ms  52.94.82.126
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18    29 ms    31 ms    27 ms  server-13-225-190-93.yul62.r.cloudfront.net [13.225.190.93]
+
+
+Tracing route to e26639.dscb.akamaiedge.net [104.123.196.139]
+over a maximum of 30 hops:
+
+  1    83 ms     4 ms     6 ms  hitronhub.home [192.168.0.1] 
+  2    17 ms    18 ms    15 ms  10.82.192.1 
+  3    14 ms    15 ms    15 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213] 
+  4    16 ms    20 ms    21 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77] 
+  5    26 ms    19 ms    17 ms  ns-hlfx-br001.ns.eastlink.ca [24.215.101.221] 
+  6    18 ms    22 ms    18 ms  ns-hlfx-br002.ns.eastlink.ca [24.215.102.10] 
+  7    87 ms    60 ms    50 ms  akamai.ip4.torontointernetxchange.net [206.108.34.24] 
+  8    40 ms    39 ms   175 ms  a104-123-196-139.deploy.static.akamaitechnologies.com [104.123.196.139] 
+
+Trace complete.
+
+Tracing route to 4a1b3064f6bf2302.gfglb.com [27.148.208.24]
+over a maximum of 30 hops:
+
+  1    78 ms     5 ms     5 ms  hitronhub.home [192.168.0.1] 
+  2    12 ms    18 ms    13 ms  10.82.192.1 
+  3    15 ms    15 ms    12 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213] 
+  4    13 ms    15 ms    14 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77] 
+  5    16 ms    13 ms    16 ms  ns-hlfx-br001.ns.eastlink.ca [24.215.101.221] 
+  6    33 ms    39 ms     *     nyk-b4-link.telia.net [62.115.190.16] 
+  7     *        *        *     Request timed out.
+  8    44 ms    45 ms   203 ms  ash-bb2-link.telia.net [62.115.136.201] 
+  9    45 ms    42 ms    39 ms  ash-b1-link.telia.net [62.115.143.121] 
+ 10    42 ms    48 ms   159 ms  218.30.53.53 
+ 11   114 ms   111 ms   117 ms  202.97.92.173 
+ 12   309 ms   307 ms   307 ms  202.97.51.217 
+ 13   287 ms   288 ms   284 ms  202.97.90.54 
+ 14   290 ms   292 ms   294 ms  202.97.62.73 
+ 15   327 ms   320 ms   320 ms  202.97.59.6 
+ 16   315 ms   311 ms   324 ms  117.27.253.66 
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19   321 ms   329 ms   319 ms  27.148.208.24 
+
+Trace complete.
+
+Tracing route to e28909.ksd.akamaiedge.net [104.123.196.120]
+over a maximum of 30 hops:
+
+  1    80 ms     4 ms     5 ms  hitronhub.home [192.168.0.1] 
+  2    16 ms    13 ms   246 ms  10.82.192.1 
+  3    20 ms    14 ms   161 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213] 
+  4    13 ms    14 ms    12 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77] 
+  5    16 ms    13 ms    15 ms  ns-hlfx-br001.ns.eastlink.ca [24.215.101.221] 
+  6    16 ms    20 ms    15 ms  ns-hlfx-br002.ns.eastlink.ca [24.215.102.10] 
+  7    38 ms    44 ms    49 ms  akamai.ip4.torontointernetxchange.net [206.108.34.24] 
+  8    35 ms    34 ms    31 ms  a104-123-196-120.deploy.static.akamaitechnologies.com [104.123.196.120] 
+
+Trace complete.
+
+Tracing route to d334guqhelsxtv.cloudfront.net [13.225.198.15]
+over a maximum of 30 hops:
+
+  1    87 ms     7 ms     3 ms  hitronhub.home [192.168.0.1] 
+  2    14 ms    14 ms    14 ms  10.82.192.1 
+  3    19 ms    18 ms    20 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213] 
+  4    17 ms    22 ms    14 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77] 
+  5    33 ms    13 ms    12 ms  ns-hlfx-br001.ns.eastlink.ca [24.215.101.221] 
+  6    22 ms    35 ms    20 ms  ns-hlfx-br002.ns.eastlink.ca [24.215.102.10] 
+  7    27 ms    33 ms    34 ms  ns-hlfx-hibernia.ns.eastlink.ca [24.222.226.90] 
+  8    30 ms    35 ms    33 ms  52.94.81.174 
+  9    30 ms    31 ms    34 ms  52.94.81.167 
+ 10    31 ms    31 ms    34 ms  52.94.83.32 
+ 11    32 ms    32 ms    27 ms  52.94.82.124 
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18    37 ms    28 ms    31 ms  server-13-225-198-15.yul62.r.cloudfront.net [13.225.198.15] 
+
+Trace complete.
+
+Tracing route to youtube-ui.l.google.com [172.217.13.110]
+over a maximum of 30 hops:
+
+  1    82 ms    13 ms     4 ms  hitronhub.home [192.168.0.1] 
+  2    15 ms    16 ms    16 ms  10.82.192.1 
+  3    23 ms    16 ms    18 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213] 
+  4    19 ms    17 ms    13 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77] 
+  5    15 ms    13 ms    14 ms  ns-hlfx-br001.ns.eastlink.ca [24.215.101.221] 
+  6    14 ms    12 ms    18 ms  ns-hlfx-br002.ns.eastlink.ca [24.215.102.10] 
+  7    35 ms    29 ms    30 ms  74.125.52.182 
+  8    29 ms    36 ms   174 ms  108.170.251.1 
+  9    32 ms    38 ms   162 ms  108.170.231.57 
+ 10    34 ms    28 ms    34 ms  yul02s04-in-f14.1e100.net [172.217.13.110] 
+
+Trace complete.
+
+Tracing route to twitter.com [104.244.42.1]
+over a maximum of 30 hops:
+
+  1    89 ms     5 ms     7 ms  hitronhub.home [192.168.0.1] 
+  2    59 ms    16 ms   202 ms  10.82.192.1 
+  3    14 ms    18 ms    21 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213] 
+  4    17 ms    15 ms    19 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77] 
+  5    14 ms    18 ms    16 ms  ns-hlfx-br001.ns.eastlink.ca [24.215.101.221] 
+  6    44 ms    38 ms    38 ms  nyk-b4-link.telia.net [62.115.190.16] 
+  7    47 ms    46 ms    49 ms  twitter-ic-349148-nyk-b4.c.telia.net [62.115.179.131] 
+  8     *        *        *     Request timed out.
+  9    66 ms    62 ms    63 ms  104.244.42.1 
+
+Trace complete.
+
+Tracing route to nus.edu.sg [45.60.35.225]
+over a maximum of 30 hops:
+
+  1    79 ms     4 ms     9 ms  hitronhub.home [192.168.0.1] 
+  2    13 ms    15 ms    12 ms  10.82.192.1 
+  3    16 ms    16 ms    14 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213] 
+  4    16 ms    11 ms    17 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77] 
+  5    16 ms    15 ms    12 ms  ns-hlfx-br001.ns.eastlink.ca [24.215.101.221] 
+  6    16 ms    19 ms    19 ms  ns-hlfx-br002.ns.eastlink.ca [24.215.102.10] 
+  7    41 ms    46 ms    57 ms  ae56-1260.bar4.Toronto1.Level3.net [4.16.53.81] 
+  8     *        *        *     Request timed out.
+  9    57 ms    49 ms    53 ms  4.14.98.218 
+ 10    48 ms    48 ms   203 ms  45.60.35.225 
+
+Trace complete.
+
+Tracing route to ecm-vip-prd.uct.ac.za [137.158.154.230]
+over a maximum of 30 hops:
+
+  1    77 ms     4 ms     2 ms  hitronhub.home [192.168.0.1] 
+  2    20 ms    23 ms   178 ms  10.82.192.1 
+  3    17 ms    22 ms    16 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213] 
+  4    16 ms    16 ms    14 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77] 
+  5    16 ms    13 ms    14 ms  ns-hlfx-br001.ns.eastlink.ca [24.215.101.221] 
+  6    36 ms    39 ms    35 ms  nyk-b4-link.telia.net [62.115.190.16] 
+  7     *       35 ms    34 ms  nyk-bb3-link.telia.net [62.115.114.178] 
+  8    41 ms    38 ms    34 ms  nyk-b5-link.telia.net [62.115.115.1] 
+  9    41 ms    42 ms    38 ms  ae-17.r00.nycmny17.us.bb.gin.ntt.net [129.250.8.229] 
+ 10    43 ms    44 ms    41 ms  ae-13.r21.nwrknj03.us.bb.gin.ntt.net [129.250.3.50] 
+ 11    47 ms    40 ms    99 ms  ae-3.r25.asbnva02.us.bb.gin.ntt.net [129.250.6.116] 
+ 12    40 ms    39 ms   199 ms  ae-1.r24.asbnva02.us.bb.gin.ntt.net [129.250.2.37] 
+ 13    73 ms    77 ms   167 ms  ae-1.r20.miamfl02.us.bb.gin.ntt.net [129.250.2.87] 
+ 14    74 ms    76 ms   124 ms  ae-10.r04.miamfl02.us.bb.gin.ntt.net [129.250.3.142] 
+ 15    81 ms    79 ms    70 ms  ae-3.a01.miamfl02.us.bb.gin.ntt.net [129.250.3.208] 
+ 16    75 ms    70 ms    78 ms  xe-0-0-23-2.a01.miamfl02.us.ce.gin.ntt.net [129.250.200.114] 
+ 17    73 ms    70 ms    65 ms  ae0-42.rt04.bb.ampath.net [190.103.184.13] 
+ 18   272 ms   269 ms   272 ms  187-185-103-190.ampath.net [190.103.185.187] 
+ 19   272 ms   271 ms   272 ms  pc6-cpt3-p1.net.tenet.ac.za [155.232.64.137] 
+ 20   276 ms   270 ms   271 ms  et-0-0-1-0-cpt3-p2.net.tenet.ac.za [155.232.64.61] 
+ 21   276 ms   276 ms   274 ms  eth50-1-cpt2-p1.net.tenet.ac.za [155.232.64.64] 
+ 22   274 ms   277 ms   272 ms  et-0-0-0-0-cpt7-pe1.net.tenet.ac.za [155.232.64.76] 
+ 23   271 ms   270 ms   271 ms  154.114.124.1 
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+Tracing route to star-mini.c10r.facebook.com [31.13.80.36]
+over a maximum of 30 hops:
+
+  1    78 ms     7 ms     5 ms  hitronhub.home [192.168.0.1] 
+  2    14 ms    14 ms    12 ms  10.82.192.1 
+  3    14 ms    14 ms    12 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213] 
+  4    16 ms    13 ms    13 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77] 
+  5    12 ms    12 ms    13 ms  ns-hlfx-br001.ns.eastlink.ca [24.215.101.221] 
+  6    12 ms    13 ms    11 ms  ns-hlfx-br002.ns.eastlink.ca [24.215.102.10] 
+  7    57 ms    52 ms    74 ms  ae42.pr01.yyz1.tfbnw.net [157.240.64.30] 
+  8    36 ms    34 ms    36 ms  po101.psw04.yyz1.tfbnw.net [157.240.41.153] 
+  9    39 ms    42 ms    35 ms  173.252.67.161 
+ 10    35 ms    37 ms    32 ms  edge-star-mini-shv-01-yyz1.facebook.com [31.13.80.36] 
+
+Trace complete.
+
+Tracing route to www.us-east-1.prodaa.netflix.com [54.85.209.30]
+over a maximum of 30 hops:
+
+  1    79 ms     4 ms     3 ms  hitronhub.home [192.168.0.1] 
+  2    28 ms    30 ms   139 ms  10.82.192.1 
+  3    18 ms    12 ms    12 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213] 
+  4    15 ms    13 ms    14 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77] 
+  5    18 ms    11 ms    12 ms  ns-hlfx-br001.ns.eastlink.ca [24.215.101.221] 
+  6    33 ms    37 ms    32 ms  host-24-222-227-98.public.eastlink.ca [24.222.227.98] 
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14    43 ms    40 ms    40 ms  72.21.222.225 
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+Tracing route to www.ox.ac.uk [151.101.130.133]
+over a maximum of 30 hops:
+
+  1    85 ms     6 ms     5 ms  hitronhub.home [192.168.0.1] 
+  2    18 ms    15 ms    13 ms  10.82.192.1 
+  3    14 ms    12 ms    14 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213] 
+  4    20 ms    12 ms    12 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77] 
+  5    15 ms    12 ms    13 ms  ns-hlfx-br001.ns.eastlink.ca [24.215.101.221] 
+  6    14 ms    10 ms    14 ms  ns-hlfx-br002.ns.eastlink.ca [24.215.102.10] 
+  7    50 ms    52 ms    58 ms  fastly-a.ip4.torontointernetxchange.net [206.108.35.30] 
+  8    34 ms    31 ms    33 ms  151.101.130.133 
+
+Trace complete.
+
+Tracing route to kil-aem6-lw1.ITS.dal.ca [129.173.31.169]
+over a maximum of 30 hops:
+
+  1    78 ms     4 ms     6 ms  hitronhub.home [192.168.0.1] 
+  2    18 ms    20 ms    19 ms  10.82.192.1 
+  3    15 ms    13 ms    11 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213] 
+  4    23 ms    22 ms    50 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77] 
+  5    13 ms    11 ms    12 ms  ns-hlfx-dr002.ns.eastlink.ca [24.215.102.202] 
+  6    14 ms    17 ms    12 ms  dal-gw.eastlink.ca [24.222.79.122] 
+  7    14 ms    12 ms    13 ms  192.75.138.18 
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+Tracing route to edge-web-split-geo.dual-gslb.spotify.com [35.186.224.25]
+over a maximum of 30 hops:
+
+  1   322 ms    39 ms     4 ms  hitronhub.home [192.168.0.1] 
+  2    14 ms    13 ms    12 ms  10.82.192.1 
+  3    13 ms    12 ms    12 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213] 
+  4    30 ms    14 ms    12 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77] 
+  5    13 ms    12 ms    14 ms  ns-hlfx-br001.ns.eastlink.ca [24.215.101.221] 
+  6    12 ms    23 ms    23 ms  ns-hlfx-br002.ns.eastlink.ca [24.215.102.10] 
+  7    28 ms    26 ms    26 ms  74.125.52.182 
+  8    27 ms    31 ms    27 ms  108.170.251.33 
+  9    30 ms    28 ms    29 ms  108.170.231.63 
+ 10    28 ms    29 ms    26 ms  25.224.186.35.bc.googleusercontent.com [35.186.224.25] 
+
+Trace complete.
+
+Tracing route to www.fifa.com [23.208.58.6]
+over a maximum of 30 hops:
+
+  1    84 ms     4 ms    43 ms  hitronhub.home [192.168.0.1] 
+  2    13 ms    13 ms    10 ms  10.82.192.1 
+  3   139 ms    15 ms    11 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213] 
+  4    12 ms    14 ms    16 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77] 
+  5    14 ms    12 ms    16 ms  ns-hlfx-br001.ns.eastlink.ca [24.215.101.221] 
+  6    18 ms    11 ms    12 ms  ns-hlfx-br002.ns.eastlink.ca [24.215.102.10] 
+  7    16 ms    11 ms    13 ms  ae3-8.cr1-hal1.ip4.gtt.net [69.174.19.173] 
+  8    40 ms    27 ms    27 ms  ae24.cr4-nyc6.ip4.gtt.net [213.200.121.6] 
+  9    34 ms     *       44 ms  ip4.gtt.net [98.124.184.66] 
+ 10    41 ms    40 ms    41 ms  ae2.r01.lga01.icn.netarch.akamai.com [23.203.156.36] 
+ 11    41 ms    38 ms    39 ms  ae3.r02.phl01.icn.netarch.akamai.com [23.32.63.71] 
+ 12    39 ms    41 ms    38 ms  ae2.r02.phl01.ien.netarch.akamai.com [23.203.150.41] 
+ 13    41 ms    48 ms    90 ms  ae7.netrality-phl.netarch.akamai.com [23.203.150.195] 
+ 14    38 ms    37 ms    36 ms  a23-208-58-6.deploy.static.akamaitechnologies.com [23.208.58.6] 
+
+Trace complete.
+
+Tracing route to www.ecb.co.uk [107.162.141.112]
+over a maximum of 30 hops:
+
+  1    81 ms     4 ms     5 ms  hitronhub.home [192.168.0.1] 
+  2    43 ms    68 ms    74 ms  10.82.192.1 
+  3    18 ms    20 ms    11 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213] 
+  4    13 ms    13 ms    11 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77] 
+  5    12 ms    12 ms    11 ms  ns-hlfx-br001.ns.eastlink.ca [24.215.101.221] 
+  6    38 ms    36 ms    34 ms  nyk-b4-link.telia.net [62.115.190.16] 
+  7     *        *        *     Request timed out.
+  8    42 ms    44 ms    39 ms  ash-bb2-link.telia.net [62.115.136.201] 
+  9    42 ms    41 ms    38 ms  ash-b1-link.telia.net [62.115.143.121] 
+ 10    41 ms    46 ms    43 ms  f5networks-ic-341208-ash-b1.c.telia.net [62.115.169.205] 
+ 11    39 ms    39 ms    40 ms  107.162.79.1 
+ 12    40 ms    45 ms    38 ms  107.162.141.112 
+
+Trace complete.
+
+Tracing route to flipkart.com [163.53.78.110]
+over a maximum of 30 hops:
+
+  1     4 ms     4 ms     4 ms  hitronhub.home [192.168.0.1]
+  2    13 ms    14 ms    13 ms  10.82.192.1
+  3    19 ms    18 ms    18 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213]
+  4    15 ms    11 ms    13 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77]
+  5    13 ms    14 ms    12 ms  ns-hlfx-br001.ns.eastlink.ca [24.215.101.221]
+  6    32 ms    33 ms    38 ms  ix-et-9-1-0-3003.tcore1.n75-newyork.as6453.net [66.110.96.154]
+  7    43 ms    34 ms    38 ms  if-ae-9-2.tcore1.nto-newyork.as6453.net [63.243.128.121]
+  8    33 ms    34 ms    32 ms  if-ae-7-5.tcore1.n0v-newyork.as6453.net [63.243.128.142]
+  9    35 ms    42 ms    32 ms  if-ae-0-2.tcore3.njy-newark.as6453.net [216.6.90.14]
+ 10   237 ms   233 ms   238 ms  66.198.70.10
+ 11     *        *        *     Request timed out.
+ 12   269 ms   266 ms   263 ms  115.110.161.170.static.vsnl.net.in [115.110.161.170]
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16   283 ms   284 ms   287 ms  163.53.78.110
+
+
+Tracing route to d1m403fa1diuwj.cloudfront.net [13.225.190.88]
+over a maximum of 30 hops:
+
+  1    77 ms     4 ms     7 ms  hitronhub.home [192.168.0.1] 
+  2    17 ms    22 ms    12 ms  10.82.192.1 
+  3    15 ms    12 ms    12 ms  ns-blby-pe101.ns.eastlink.ca [24.215.101.213] 
+  4    56 ms    51 ms    78 ms  ns-hlfx-dr001.ns.eastlink.ca [24.222.227.77] 
+  5    12 ms    12 ms    12 ms  ns-hlfx-br001.ns.eastlink.ca [24.215.101.221] 
+  6    17 ms    11 ms    14 ms  ns-hlfx-br002.ns.eastlink.ca [24.215.102.10] 
+  7    32 ms    27 ms    26 ms  ns-hlfx-hibernia.ns.eastlink.ca [24.222.226.90] 
+  8    31 ms    28 ms    31 ms  52.94.81.218 
+  9    64 ms    28 ms    32 ms  52.94.81.213 
+ 10    28 ms    29 ms    27 ms  52.94.83.34 
+ 11    33 ms    29 ms    26 ms  52.94.83.2 
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18    37 ms    29 ms    35 ms  server-13-225-190-88.yul62.r.cloudfront.net [13.225.190.88] 
+
+Trace complete.
